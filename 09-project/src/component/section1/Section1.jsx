@@ -11,8 +11,6 @@ const Section1 = () => {
       <Herocard />
 
 
-      <h1 >minhaz</h1>
-
 
     </div>
   )
